@@ -16,15 +16,15 @@ plugin:
     minor: 0
     patch: 24
   description: A plugin to add YouTube videos to a site
-  documentation: "https://raw.githubusercontent.com/craftercms/youtube-plugin/master/README.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/youtube-plugin/master/README.md"
   website:
     name: YouTube Plugin
-    url: https://github.com/craftercms/youtube-plugin
+    url: https://github.com/craftersoftware/youtube-plugin
   media:
     screenshots:
       - title: CrafterCMS
         description: CrafterCMS Plugin YouTube
-        url: "https://raw.githubusercontent.com/craftercms/youtube-plugin/master/.crafter/logo.svg"
+        url: "https://raw.githubusercontent.com/craftersoftware/youtube-plugin/master/.crafter/logo.svg"
   developer:
     company:
       name: CrafterCMS
